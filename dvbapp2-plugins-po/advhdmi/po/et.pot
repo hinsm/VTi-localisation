@@ -163,17 +163,17 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:259
 msgid "Close"
-msgstr ""
+msgstr "Sulge"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:260
 msgid "Edit"
-msgstr ""
+msgstr "Muuda"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:261
 msgid "Delete"
-msgstr ""
+msgstr "Kustuta"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:280
@@ -188,7 +188,7 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:347
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:360
@@ -198,7 +198,7 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:360
 msgid "from weekday"
-msgstr ""
+msgstr "alates päevast"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:361
@@ -208,7 +208,7 @@ msgstr ""
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:361
 msgid "to weekday"
-msgstr ""
+msgstr "kuni päevani"
 
 #:
 #: AdvHdmi/usr/lib/enigma2/python/Plugins/SystemPlugins/AdvHdmi/AdvHdmiCecSetup.py:362
