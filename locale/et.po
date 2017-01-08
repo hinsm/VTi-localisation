@@ -211,15 +211,15 @@ msgstr ""
 
 #
 msgid " 1"
-msgstr ""
+msgstr "1"
 
 #
 msgid " 2"
-msgstr ""
+msgstr "2"
 
 #
 msgid " 3"
-msgstr ""
+msgstr "3"
 
 #
 #, python-format
